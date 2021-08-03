@@ -1,5 +1,5 @@
-CREATE DATABASE mlbPlayerData;
-use mlbPlayerData;
+CREATE DATABASE mlbPlayersData;
+use mlbPlayersData;
 
 CREATE TABLE IF NOT EXISTS mlbPlayers (
     `id` INT AUTO_INCREMENT,
